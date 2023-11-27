@@ -22,12 +22,10 @@ To get started with the Stock Tracker app, follow these steps:
    ```bash
    git clone https://github.com/your-username/stock-tracker.git
 
-
 2. **Navigate to the project directory:**
 
    ```bash
    cd stock-tracker
-
 
 3. **Install dependencies:**
 
